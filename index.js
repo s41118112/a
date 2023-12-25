@@ -1,7 +1,7 @@
 function adjustText() {
     document.getElementById('student-id').style.fontSize = '24px';
     document.getElementById('student-name').style.fontSize = '18px';
-    document.getElementById('student-id').style.color = 'blue';
+    document.getElementById('student-id').style.color = 'red';
     document.getElementById('student-name').style.color = 'green';
   }
   
